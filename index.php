@@ -139,13 +139,12 @@
               <h5 class="card-title mbr-fonts-style m-0 mb-3 display-5">
                 <strong>Ramon Saldanha</strong>
               </h5>
-              <h6 class="card-subtitle mbr-fonts-style mb-3 display-8">
+              <h6 class="card-subtitle mbr-fonts-style mb-3 display-7">
                 <strong>Advogado, mestrando em Direito Constitucional (UFRN), pós-graduando em Direito Tributário
                   (IBET)</strong>
               </h6>
               <p class="mbr-text mbr-fonts-style display-8">
                 "É importante estar sempre atualizado com as novas técnicas e estratégias, e isso é algo que eu trago minha história pregressa a advocacia, quando atuava como Desenvolvedor de Software, pois sempre associo a tecnologia a sua advocacia para obter os excelentes resultados que venho alcançando para meus clientes, sempre de forma célere".
-                <br />
                 <br />
               </p>
               <div class="social-row display-7">
