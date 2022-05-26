@@ -6,7 +6,7 @@ body {
   background-color: #232323;
   padding: 40px 50px 80px 50px;
 }
-@media (max-width: 568px) {
+@media (max-width: 768px) {
   #wp-custom-widgets {
     padding: 0px !important;
     padding-bottom: 30px !important;
