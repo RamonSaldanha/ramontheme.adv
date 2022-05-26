@@ -1,15 +1,17 @@
 <?php
 
+
+
+
 function custom_assets() {
 
 
 	wp_enqueue_style( 'bootstrap', get_template_directory_uri().'/assets/libraries/bootstrap/css/bootstrap.min.css');
 
-	wp_enqueue_style( 'bootstrap-grid', get_template_directory_uri().'/assets/libraries/bootstrap/css/bootstrap-grid.min.css', array(), '5.0.1', 'all' );
-	wp_enqueue_style( 'bootstrap-reboot', get_template_directory_uri().'/assets/libraries/bootstrap/css/bootstrap-reboot.min.css');
+	// wp_enqueue_style( 'bootstrap-grid', get_template_directory_uri().'/assets/libraries/bootstrap/css/bootstrap-grid.min.css', array(), '5.0.1', 'all' );
+	// wp_enqueue_style( 'bootstrap-reboot', get_template_directory_uri().'/assets/libraries/bootstrap/css/bootstrap-reboot.min.css');
 	wp_enqueue_style( 'parallax', get_template_directory_uri().'/assets/libraries/parallax/jarallax.css');
 	wp_enqueue_style( 'dropdown-css', get_template_directory_uri().'/assets/libraries/dropdown/css/style.css');
-	wp_enqueue_style( 'socicon-css', get_template_directory_uri().'/assets/libraries/socicon/css/styles.css');
 	wp_enqueue_style( 'theme-css', get_template_directory_uri().'/assets/libraries/theme/css/style.css');
 	wp_enqueue_style( 'mobirise-css', get_template_directory_uri().'/assets/libraries/mobirise/css/mbr-additional.css');
 
