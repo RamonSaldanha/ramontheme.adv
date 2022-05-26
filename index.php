@@ -143,11 +143,9 @@
                 <strong>Advogado, mestrando em Direito Constitucional (UFRN), pós-graduando em Direito Tributário
                   (IBET)</strong>
               </h6>
-              <p class="mbr-text mbr-fonts-style display-7">
-                Pellentesque facilisis libero at libero maximus, in gravida
-                orci euismod. Phasellus pellentesque libero vitae tempus
-                consequat. Pellentesque habitant morbi tristique senectus et
-                netus et malesuada fames.<br />
+              <p class="mbr-text mbr-fonts-style display-4">
+                "É importante estar sempre atualizado com as novas técnicas e estratégias, e isso é algo que eu trago minha história pregressa a advocacia, quando atuava como Desenvolvedor de Software, pois sempre associo a tecnologia a sua advocacia para obter os excelentes resultados que venho alcançando para meus clientes, sempre de forma célere".
+                <br />
                 <br />
               </p>
               <div class="social-row display-7">
