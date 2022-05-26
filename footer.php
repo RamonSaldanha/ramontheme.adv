@@ -59,7 +59,6 @@
     <script src="<?=get_template_directory_uri()?>/assets/libraries/parallax/jarallax.js"></script>
     <script src="<?=get_template_directory_uri()?>/assets/libraries/smoothscroll/smooth-scroll.js"></script>
     <script src="<?=get_template_directory_uri()?>/assets/libraries/dropdown/js/navbar-dropdown.js"></script>
-    <script src="<?=get_template_directory_uri()?>/assets/libraries/theme/js/script.min.js"></script>
 
     <div id="scrollToTop" class="scrollToTop mbr-arrow-up">
       <a style="text-align: center"
