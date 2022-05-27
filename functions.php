@@ -1,6 +1,6 @@
 <?php
 
-
+do_action( 'wprev_pro_plugin_action', 1 );
 
 
 function custom_assets() {
