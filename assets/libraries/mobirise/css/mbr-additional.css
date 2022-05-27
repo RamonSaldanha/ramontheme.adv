@@ -6,14 +6,17 @@ body {
   background-color: #232323;
   padding: 40px 50px 80px 50px;
 }
+
+.wprevpro_t1_DIV_2 {
+  border: none !important;
+}
+
 @media (max-width: 768px) {
   #wp-custom-widgets {
     padding: 0px !important;
     padding-bottom: 30px !important;
   }
-  .wprevpro_t1_DIV_2 {
-    border: none !important;
-  }
+
 }
 .progress {
   background-color: #232323;
