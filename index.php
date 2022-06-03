@@ -130,7 +130,7 @@
           <div class="card-box align-center">
             <i class="fa-solid fa-heart-pulse fa-4x mb-4" style="color: rgb(255, 225, 97);"></i>
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
-              <strong>Direito Saúde (SUS)</strong>
+              <strong>Saúde Pública</strong>
             </h4>
             <div style="font-size: .7rem; text-transform: uppercase;">
               <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
