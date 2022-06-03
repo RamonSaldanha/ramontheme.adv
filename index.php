@@ -37,7 +37,9 @@
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
               <strong>Consumidor</strong>
             </h4>
-
+            <div style="font-size: .7rem; text-transform: uppercase;">
+              <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
+            </div>
           </div>
         </div>
       </div>
@@ -48,7 +50,9 @@
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
               <strong>Família e Sucessões</strong>
             </h4>
-
+            <div style="font-size: .7rem; text-transform: uppercase;">
+              <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
+            </div>
           </div>
         </div>
       </div>
@@ -59,7 +63,9 @@
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
               <strong>Trabalhista</strong>
             </h4>
-
+            <div style="font-size: .7rem; text-transform: uppercase;">
+              <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
+            </div>
           </div>
         </div>
       </div>
@@ -70,6 +76,9 @@
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
               <strong>Criminal</strong>
             </h4>
+            <div style="font-size: .7rem; text-transform: uppercase;">
+              <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
+            </div>
           </div>
         </div>
       </div>
@@ -84,7 +93,9 @@
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
               <strong>Direito Administrativo</strong>
             </h4>
-
+            <div style="font-size: .7rem; text-transform: uppercase;">
+              <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
+            </div>
           </div>
         </div>
       </div>
@@ -95,7 +106,9 @@
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
               <strong>Direito Tributário</strong>
             </h4>
-
+            <div style="font-size: .7rem; text-transform: uppercase;">
+              <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
+            </div>
           </div>
         </div>
       </div>
@@ -106,17 +119,22 @@
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
               <strong>Direito Imobiliário</strong>
             </h4>
-
+            <div style="font-size: .7rem; text-transform: uppercase;">
+              <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
+            </div>
           </div>
         </div>
       </div>
       <div class="col-12 col-md-6 col-lg-3">
         <div class="card-wrapper">
           <div class="card-box align-center">
-            <i class="fa-solid fa-people-group fa-4x mb-4" style="color: rgb(255, 225, 97);"></i>
+            <i class="fa-solid fa-heart-pulse fa-4x mb-4" style="color: rgb(255, 225, 97);"></i>
             <h4 class="card-title align-center mbr-black mbr-fonts-style display-7">
-              <strong>Direito Civil</strong>
+              <strong>Direito Saúde (SUS)</strong>
             </h4>
+            <div style="font-size: .7rem; text-transform: uppercase;">
+              <a href="#">Saiba mais<i class="fa-solid fa-angle-right fa-fw"></i></a>
+            </div>
           </div>
         </div>
       </div>

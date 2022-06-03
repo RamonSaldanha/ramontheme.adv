@@ -22,7 +22,7 @@
           <div class="navbar-brand">
             <span class="navbar-logo">
               <a href="#">
-                <img src="<?= get_template_directory_uri() ?>/assets/images/group-1.svg" alt="Ramon Saldanha advocacia" style="height: 1.9rem" />
+                <img src="<?= get_template_directory_uri() ?>/assets/images/logotipo.svg" class="navbrand" alt="Ramon Saldanha advocacia" />
               </a>
             </span>
           </div>
@@ -37,21 +37,21 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
               <li class="nav-item">
-                <a class="nav-link link text-white display-4" href="https://mobiri.se">Início</a>
+                <a class="nav-link link text-white display-4" href="#">Início</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link link text-white display-4" href="https://mobiri.se">Blog</a>
+                <a class="nav-link link text-white display-4" href="#">Blog</a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link link text-white dropdown-toggle display-4" href="https://mobiri.se" data-toggle="dropdown-submenu" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Áreas de atuação</a>
+                <a class="nav-link link text-white dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Áreas de atuação</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown-undefined">
-                  <a class="text-white dropdown-item display-4" href="https://mobiri.se"><span class="mobi-mbri mobi-mbri-file mbr-iconfont mbr-iconfont-btn"></span>Metodologia</a><a class="text-white show dropdown-item display-4" href="https://mobiri.se"><span class="mobi-mbri mobi-mbri-numbered-list mbr-iconfont mbr-iconfont-btn"></span>Etapas</a>
+                  <a class="text-white dropdown-item display-4" href="#"><span class="mobi-mbri mobi-mbri-file mbr-iconfont mbr-iconfont-btn"></span>Metodologia</a><a class="text-white show dropdown-item display-4" href="https://mobiri.se"><span class="mobi-mbri mobi-mbri-numbered-list mbr-iconfont mbr-iconfont-btn"></span>Etapas</a>
                 </div>
               </li>
             </ul>
 
             <div class="navbar-buttons mbr-section-btn">
-              <a class="btn btn-sm btn-warning display-4" href="https://mobiri.se">Fale com um advogado</a>
+              <a class="btn btn-sm btn-warning display-4" href="https://api.whatsapp.com/send?phone=5584987329303" target="blank">Fale com um advogado</a>
             </div>
           </div>
         </div>

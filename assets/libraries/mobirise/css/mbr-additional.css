@@ -2,6 +2,14 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
+.navbrand {
+  max-height: 2.3rem;
+}
+@media (max-width: 768px) {
+  .navbrand {
+    max-height: 1.8rem;
+  }
+}
 #wp-custom-widgets {
   background-color: #232323;
   padding: 40px 50px 80px 50px;
