@@ -32,3 +32,10 @@ if ( function_exists('register_sidebar') )
 	'before_title' => '<h3>',
 	'after_title' => '</h3>',
 ));
+
+
+function add_favicon() {
+	echo '<link rel="shortcut icon" type="image/png" href="'.get_template_directory_uri().'/assets/images/favicon-16x16.png" />';
+}
+
+add_action('wp_head', 'add_favicon');
