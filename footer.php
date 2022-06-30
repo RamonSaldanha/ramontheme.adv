@@ -8,8 +8,10 @@
               <strong>Endereço</strong>
             </h5>
             <p class="mbr-text mbr-fonts-style fs-6">
+              <small>
                 Rua Clóvis Beviláqua, n.º 687, Bairro Lagoa Seca, Natal/RN, CEP:
                 59022-230
+              </small>
               <br />
               <div class="pt-3">
                 <a href="https://goo.gl/maps/7GeLwAarFy5Ay76G9" target="_blank" class="fs-6 mt-5">
