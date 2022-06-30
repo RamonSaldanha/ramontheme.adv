@@ -165,10 +165,15 @@
                 "É importante estar sempre atualizado com as novas técnicas e estratégias, e isso é algo que eu trago minha história pregressa a advocacia, quando atuava como Desenvolvedor de Software, pois sempre associo a tecnologia a sua advocacia para obter os excelentes resultados que venho alcançando para meus clientes, sempre de forma célere".
                 <br />
               </p>
-              <div class="social-row display-7">
+              <div class="social-row">
                 <div class="soc-item">
                   <a href="https://instagram.com/ramonsaldanhaadv" target="_blank">
                     <i class="mbr-iconfont fa-brands fa-instagram" style="font-size: 16px;"></i>
+                  </a>
+                </div>
+                <div class="soc-item">
+                  <a href="https://www.linkedin.com/in/ramon-saldanha/" target="_blank">
+                    <i class="mbr-iconfont fa-brands fa-linkedin" style="font-size: 16px;"></i>
                   </a>
                 </div>
               </div>

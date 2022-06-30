@@ -21,17 +21,31 @@ function custom_assets() {
 add_action( 'wp_enqueue_scripts', 'custom_assets' );
 
 
-if ( function_exists('register_sidebar') )
+if ( function_exists('register_sidebar') ) {
+
 	//Código para o widget.
 	register_sidebar(array(
-	'name' => __( "Área na metade da landing" ),
-	'id' => 'wp-custom-widgets',
-	'description' => __( 'Area de widget' ),
-	'before_widget' => '<li id="%1$s" class="%2$s">',
-	'after_widget' => '</li>',
-	'before_title' => '<h3>',
-	'after_title' => '</h3>',
-));
+		'name' => __( "Área na metade da landing" ),
+		'id' => 'wp-custom-widgets',
+		'description' => __( 'Area de widget' ),
+		'before_widget' => '<li id="%1$s" class="%2$s">',
+		'after_widget' => '</li>',
+		'before_title' => '<h3>',
+		'after_title' => '</h3>',
+	));
+
+	register_sidebar(array(
+		'name' => __( "Rodapé links" ),
+		'id' => 'wp-footer-links',
+		'description' => __( 'Area de widget' ),
+		'before_widget' => '<div id="%1$s" class="footer-widget">',
+		'after_widget' => '</div>',
+		'before_title' => '<h3>',
+		'after_title' => '</h3>',
+	));
+
+}
+
 
 
 function add_favicon() {

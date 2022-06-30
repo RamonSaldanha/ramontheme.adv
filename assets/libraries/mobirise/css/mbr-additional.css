@@ -5,6 +5,40 @@ body {
 .navbrand {
   max-height: 2.3rem;
 }
+
+.post p {
+  line-height: 1.6;
+  font-size: 1.2rem;
+}
+
+.wp-block-quote {
+  padding: 20px 20px;
+}
+
+.footer-widget ul {
+  list-style-type: none;
+  font-size: 1rem;
+  text-decoration: underline;
+  padding: 0;
+}
+
+
+.footer-widget ul li{
+  font-style: normal;
+  line-height: 1.9;
+}
+
+.footer-widget ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #232323; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+
+
 @media (max-width: 768px) {
   .navbrand {
     max-height: 1.8rem;
@@ -585,9 +619,11 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
 }
-a,
-a:hover {
+a {
   color: #ffe161;
+}
+a:hover {
+  color: #facb00;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -759,7 +795,7 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-sWLPR4vtzt .social-row .soc-item {
+.social-row .soc-item {
   display: inline-block;
   text-align: center;
   border-radius: 50%;

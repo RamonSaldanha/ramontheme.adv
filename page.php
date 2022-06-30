@@ -4,7 +4,7 @@
   
     <?php while ( have_posts() ) : the_post(); ?>
 
-      <article id="post-<?php the_ID(); ?>" class="container py-5">
+      <article id="post-<?php the_ID(); ?>" class="container py-5 post">
         <div class="row justify-content-md-center">
           <div class="col-lg-8">
             <?php the_title( sprintf( '<h1 class="fs-1 fw-bolder">', esc_url( get_permalink() ) ), '</h1>' ); ?>
