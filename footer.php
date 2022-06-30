@@ -3,18 +3,24 @@
       <div class="container">
         <div class="row content mbr-white">
 
-          <div class="col-12 col-md-4 mbr-fonts-style display-7">
-            <h5 class="mbr-section-subtitle mbr-fonts-style mb-2">
+          <div class="col-12 col-md-4 mbr-fonts-style">
+            <h5 class="mbr-section-subtitle mbr-fonts-style mb-4">
               <strong>Endereço</strong>
             </h5>
             <p class="mbr-text mbr-fonts-style fs-6">
-              <small>
                 Rua Clóvis Beviláqua, n.º 687, Bairro Lagoa Seca, Natal/RN, CEP:
-                59022-230.
-              </small>
+                59022-230
+              <br />
+              <div class="pt-3">
+                <a href="https://goo.gl/maps/7GeLwAarFy5Ay76G9" target="_blank" class="fs-6 mt-5">
+                  Acessar no Google Maps <i class="fa-solid fa-arrow-up-right-from-square ms-1"></i>
+                </a>
+              </div>
             </p>
-            <br />
-            <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 mt-4">
+          </div>
+
+          <div class="col-12 col-md-4 mbr-fonts-style">
+            <h5 class="mbr-section-subtitle mbr-fonts-style mb-4">
               <strong>Informações</strong>
             </h5>
             <p class="mbr-text mbr-fonts-style fs-6 mb-4">
@@ -22,23 +28,22 @@
               <strong>Telefone:</strong> +55 (84) 9 8732-9303<br />
             </p>
 
-            <div class="social-row pt-4">
-              <div class="soc-item" style="padding: 3px 10px;">
+            <div class="social-row pt-2">
+              <div class="soc-item" style="padding: 5px 10px;">
                 <a href="https://instagram.com/ramonsaldanhaadv" target="_blank">
                   <i class="mbr-iconfont fa-brands fa-instagram" style="font-size: 16px;"></i>
                 </a>
               </div>
-              <div class="soc-item" style="padding: 3px 10px;">
+              <div class="soc-item" style="padding: 5px 10px;">
                 <a href="https://www.linkedin.com/in/ramon-saldanha/" target="_blank">
                   <i class="mbr-iconfont fa-brands fa-linkedin" style="font-size: 16px;"></i>
                 </a>
               </div>
             </div>
-
           </div>
 
-          <div class="col-12 col-md-3 mbr-fonts-style display-7">
-            <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
+          <div class="col-12 col-md-4 mbr-fonts-style display-7">
+            <h5 class="mbr-section-subtitle mbr-fonts-style mb-3 display-7">
               <strong>Links úteis</strong>
             </h5>
 
@@ -46,14 +51,10 @@
               <?php dynamic_sidebar( 'wp-footer-links' ); ?>
             <?php endif; ?>
 
-            <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 mt-5 display-7"></h5>
+            <h5 class="mbr-section-subtitle mbr-fonts-style mb-4 mt-5 display-7"></h5>
             <p class="mbr-text mbr-fonts-style mb-4 display-7"></p>
           </div>
-          <div class="col-12 col-md-5">
-            <div class="google-map">
-            <iframe style="filter: invert(85%); border: 5px solid #fff !important;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15877.364292148139!2d-35.2078704!3d-5.8074139!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc1616f2674162327!2s%E2%9A%96%EF%B8%8F%20Ramon%20Saldanha%20Advogado%20Consumidor%20e%20Trabalhista!5e0!3m2!1spt-BR!2sbr!4v1653574038667!5m2!1spt-BR!2sbr" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-          </div>
+
         </div>
       </div>
     </footer>

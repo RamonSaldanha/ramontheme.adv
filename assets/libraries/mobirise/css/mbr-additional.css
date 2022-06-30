@@ -25,7 +25,7 @@ body {
 
 .footer-widget ul li{
   font-style: normal;
-  line-height: 1.9;
+  line-height: 1.8;
 }
 
 .footer-widget ul li::before {
@@ -33,7 +33,7 @@ body {
   color: #232323; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
-  width: 1em; /* Also needed for space (tweak if needed) */
+  width: .92em; /* Also needed for space (tweak if needed) */
   margin-left: -1em; /* Also needed for space (tweak if needed) */
 }
 
